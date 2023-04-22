@@ -1,0 +1,29 @@
+.desafio1 {
+    color: rgb(197, 128, 0);
+    font-family: 'Gill Sans', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.desafio2 {
+    color: rgb(197, 128, 0);
+    font-family: 'Gill Sans', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+ol {
+    list-style-type: decimal-leading-zero;
+    color: #00509b;
+    font-family: 'Gill Sans', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+
+ul {
+    list-style-type: square;
+    font-family: 'Gill Sans', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#paragrafo {
+    background-color: rgb(110, 190, 255);
+    color: rgb(230, 230, 230);
+    font-family: 'Gill Sans', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
